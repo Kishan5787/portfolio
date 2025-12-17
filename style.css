@@ -652,3 +652,16 @@ body {
     padding: 60px 20px;
   }
 }
+/* ABOUT SECTION */
+.about {
+  text-align: center;
+}
+
+.about-text {
+  max-width: 850px;
+  margin: 0 auto 18px;
+  font-size: 15px;
+  line-height: 1.7;
+  opacity: 0.9;
+}
+
